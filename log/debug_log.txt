@@ -1,0 +1,386 @@
+
+===========================================
+[2022-02-16 12:33:09]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 12:33:09]: Application terminated, Execution time: 0.0147  , Memory Usage: 638,576  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 12:38:15]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 12:38:15]: Application terminated, Execution time: 0.0347  , Memory Usage: 632,712  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 12:41:51]: Application Started, memory allocated to PHP: 407800
+
+===========================================
+[2022-02-16 12:48:39]: Application Started, memory allocated to PHP: 407800
+
+===========================================
+[2022-02-16 12:51:09]: Application Started, memory allocated to PHP: 407672
+
+===========================================
+[2022-02-16 12:58:00]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 12:58:00]: Application terminated, Execution time: 0.0534  , Memory Usage: 538,080  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 12:58:55]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 12:58:55]: Application terminated, Execution time: 0.0632  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:07:19]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:07:19]: Application terminated, Execution time: 0.0619  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:07:49]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:07:49]: Application terminated, Execution time: 0.0462  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:08:31]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:08:31]: Application terminated, Execution time: 0.0616  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:08:48]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:08:48]: Application terminated, Execution time: 0.0454  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:08:56]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:08:56]: Application terminated, Execution time: 0.0631  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:10:06]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:10:06]: Application terminated, Execution time: 0.0482  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:11:19]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:11:19]: Application terminated, Execution time: 0.0477  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:11:51]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:11:51]: Application terminated, Execution time: 0.0320  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:12:16]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:12:16]: Application terminated, Execution time: 0.0639  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:12:28]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:12:28]: Application terminated, Execution time: 0.1379  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:12:48]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:12:48]: Application terminated, Execution time: 0.0617  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:13:16]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:13:16]: Application terminated, Execution time: 0.0638  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:13:19]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:13:19]: Application terminated, Execution time: 0.0326  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:13:41]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:13:41]: Application terminated, Execution time: 0.0320  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:14:32]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:14:32]: Application terminated, Execution time: 0.0324  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:15:50]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:15:50]: Application terminated, Execution time: 0.0328  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:22:47]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:22:47]: Application terminated, Execution time: 0.0523  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:22:58]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:22:58]: Application terminated, Execution time: 0.2500  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:23:25]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:23:26]: Application terminated, Execution time: 0.0479  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:30:54]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:30:54]: Application terminated, Execution time: 0.0646  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:31:35]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:31:35]: Application terminated, Execution time: 0.0480  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:31:36]: Application Started, memory allocated to PHP: 408888
+[2022-02-16 13:31:36]: ERROR
+[2022-02-16 13:31:36]: Application terminated, Execution time: 0.0322  , Memory Usage: 538,288  , Total Alocated memory: 1,688,264
+===========================================
+[2022-02-16 13:34:28]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:34:28]: Application terminated, Execution time: 0.0763  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:36:07]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:36:07]: Application terminated, Execution time: 0.0500  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:36:31]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 13:36:31]: Application terminated, Execution time: 0.0468  , Memory Usage: 537,968  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 13:36:50]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:36:50]: Application terminated, Execution time: 0.0463  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:46:51]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:46:52]: Application terminated, Execution time: 0.0503  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:47:10]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:47:10]: Application terminated, Execution time: 0.0481  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 13:48:34]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 13:48:34]: Application terminated, Execution time: 0.0468  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 14:01:13]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 14:01:14]: Application terminated, Execution time: 0.0321  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 14:04:04]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 14:04:04]: Application terminated, Execution time: 0.0316  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 14:05:37]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 14:05:37]: Application terminated, Execution time: 0.0482  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 14:08:18]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 14:08:18]: Application terminated, Execution time: 0.0477  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 14:08:21]: Application Started, memory allocated to PHP: 408888
+[2022-02-16 14:08:21]: ERROR
+[2022-02-16 14:08:21]: Application terminated, Execution time: 0.0614  , Memory Usage: 538,288  , Total Alocated memory: 1,688,264
+===========================================
+[2022-02-16 14:15:47]: Application Started, memory allocated to PHP: 408888
+[2022-02-16 14:15:47]: ERROR
+[2022-02-16 14:15:47]: Application terminated, Execution time: 0.0488  , Memory Usage: 538,288  , Total Alocated memory: 1,688,264
+===========================================
+[2022-02-16 14:16:02]: Application Started, memory allocated to PHP: 407672
+[2022-02-16 14:16:02]: Application terminated, Execution time: 0.0630  , Memory Usage: 537,968  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-16 14:16:06]: Application Started, memory allocated to PHP: 410424
+[2022-02-16 14:16:06]: ERROR
+[2022-02-16 14:16:06]: Application terminated, Execution time: 0.0555  , Memory Usage: 538,288  , Total Alocated memory: 1,686,728
+===========================================
+[2022-02-16 14:17:28]: Application Started, memory allocated to PHP: 407672
+
+===========================================
+[2022-02-16 14:19:00]: Application Started, memory allocated to PHP: 407800
+[2022-02-16 14:19:00]: Application terminated, Execution time: 0.0326  , Memory Usage: 539,544  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-16 14:19:04]: Application Started, memory allocated to PHP: 410480
+[2022-02-16 14:19:04]: Application terminated, Execution time: 0.1200  , Memory Usage: 539,824  , Total Alocated memory: 1,686,672
+===========================================
+[2022-02-16 14:20:36]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:20:49]: Application terminated, Execution time: 12.5877  , Memory Usage: 540,576  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:22:13]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:22:48]: Application terminated, Execution time: 34.7436  , Memory Usage: 540,624  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:22:54]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:22:54]: Application terminated, Execution time: 0.0631  , Memory Usage: 539,568  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:23:08]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:23:29]: Application terminated, Execution time: 21.0468  , Memory Usage: 540,320  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:23:39]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:23:41]: Application terminated, Execution time: 1.8381  , Memory Usage: 712,464  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:24:34]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:24:34]: Application terminated, Execution time: 0.0295  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:24:36]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:24:36]: Application terminated, Execution time: 0.0677  , Memory Usage: 711,712  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:24:53]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:24:53]: Application terminated, Execution time: 0.0442  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:24:57]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:24:57]: Application terminated, Execution time: 0.0716  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:25:50]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:25:51]: Application terminated, Execution time: 0.0312  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:25:52]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:25:52]: Application terminated, Execution time: 0.0504  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:27:15]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:27:15]: Application terminated, Execution time: 0.0394  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:27:17]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:27:17]: Application terminated, Execution time: 0.0584  , Memory Usage: 711,712  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:27:51]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:27:51]: Application terminated, Execution time: 0.0478  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:27:55]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:27:55]: Application terminated, Execution time: 0.0519  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:29:07]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:29:08]: Application terminated, Execution time: 0.2518  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:29:09]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:29:09]: Application terminated, Execution time: 0.0450  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:29:31]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:29:31]: Application terminated, Execution time: 0.0438  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:29:35]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:29:35]: Application terminated, Execution time: 0.0765  , Memory Usage: 711,712  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:31:56]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:31:56]: Application terminated, Execution time: 0.0339  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:32:00]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:32:00]: Application terminated, Execution time: 0.0369  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:32:15]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:32:15]: Application terminated, Execution time: 0.1054  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:40:09]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:40:09]: Application terminated, Execution time: 0.0605  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:40:11]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:40:11]: Application terminated, Execution time: 0.0570  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:43:06]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:43:06]: Application terminated, Execution time: 0.1257  , Memory Usage: 711,712  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:43:10]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:43:11]: Application terminated, Execution time: 0.0447  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:43:13]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:43:13]: Application terminated, Execution time: 0.0564  , Memory Usage: 711,712  , Total Alocated memory: 1,686,640
+===========================================
+[2022-02-16 14:44:40]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:44:40]: Application terminated, Execution time: 0.0504  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:44:43]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:44:43]: Application terminated, Execution time: 0.0545  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:47:38]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:47:38]: Application terminated, Execution time: 0.0294  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:47:54]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:47:54]: Application terminated, Execution time: 0.0296  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:47:56]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:47:56]: Application terminated, Execution time: 0.0419  , Memory Usage: 711,712  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:48:29]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:48:29]: Application terminated, Execution time: 0.0723  , Memory Usage: 736,384  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:49:27]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:49:27]: Application terminated, Execution time: 0.0412  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:49:30]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:49:30]: Application terminated, Execution time: 0.0581  , Memory Usage: 736,384  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:51:45]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:51:45]: Application terminated, Execution time: 0.0256  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:51:58]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:51:58]: Application terminated, Execution time: 0.0321  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:52:08]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 14:52:08]: Application terminated, Execution time: 0.0255  , Memory Usage: 539,288  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 14:52:11]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:52:11]: Application terminated, Execution time: 0.0573  , Memory Usage: 736,384  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:52:16]: Application Started, memory allocated to PHP: 410512
+[2022-02-16 14:52:16]: Application terminated, Execution time: 0.0644  , Memory Usage: 736,384  , Total Alocated memory: 3,783,792
+===========================================
+[2022-02-16 14:53:07]: Application Started, memory allocated to PHP: 410488
+[2022-02-16 14:53:07]: Application terminated, Execution time: 0.0309  , Memory Usage: 539,664  , Total Alocated memory: 1,686,664
+===========================================
+[2022-02-16 14:53:20]: Application Started, memory allocated to PHP: 410488
+[2022-02-16 14:53:20]: Application terminated, Execution time: 0.0587  , Memory Usage: 715,840  , Total Alocated memory: 3,783,816
+===========================================
+[2022-02-16 14:53:34]: Application Started, memory allocated to PHP: 410496
+[2022-02-16 14:53:34]: Application terminated, Execution time: 0.0546  , Memory Usage: 728,192  , Total Alocated memory: 3,783,808
+===========================================
+[2022-02-16 14:59:52]: Application Started, memory allocated to PHP: 410496
+[2022-02-16 14:59:52]: Application terminated, Execution time: 0.2858  , Memory Usage: 728,192  , Total Alocated memory: 3,783,808
+===========================================
+[2022-02-16 15:36:06]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:36:06]: Application terminated, Execution time: 0.0101  , Memory Usage: 540,416  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:38:33]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:38:33]: Application terminated, Execution time: 0.0309  , Memory Usage: 540,416  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:44:44]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:44:44]: Application terminated, Execution time: 0.0284  , Memory Usage: 540,416  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:45:35]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:45:35]: Application terminated, Execution time: 0.0514  , Memory Usage: 540,416  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:45:41]: Application Started, memory allocated to PHP: 407832
+[2022-02-16 15:45:41]: Application terminated, Execution time: 0.0295  , Memory Usage: 540,416  , Total Alocated memory: 1,689,320
+===========================================
+[2022-02-16 15:48:08]: Application Started, memory allocated to PHP: 407832
+[2022-02-16 15:48:08]: Application terminated, Execution time: 0.0312  , Memory Usage: 540,416  , Total Alocated memory: 1,689,320
+===========================================
+[2022-02-16 15:48:34]: Application Started, memory allocated to PHP: 407832
+[2022-02-16 15:48:34]: Application terminated, Execution time: 0.0378  , Memory Usage: 540,416  , Total Alocated memory: 1,689,320
+===========================================
+[2022-02-16 15:50:47]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:50:47]: Application terminated, Execution time: 0.0272  , Memory Usage: 540,416  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:50:47]: Application Started, memory allocated to PHP: 408920
+[2022-02-16 15:50:47]: Application terminated, Execution time: 0.0109  , Memory Usage: 540,728  , Total Alocated memory: 1,688,232
+===========================================
+[2022-02-16 15:51:53]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:51:53]: Application terminated, Execution time: 0.0291  , Memory Usage: 540,216  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:51:53]: Application Started, memory allocated to PHP: 408920
+[2022-02-16 15:51:54]: Application terminated, Execution time: 0.0923  , Memory Usage: 540,184  , Total Alocated memory: 1,688,232
+===========================================
+[2022-02-16 15:57:06]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:57:06]: Application terminated, Execution time: 0.0299  , Memory Usage: 540,216  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:57:07]: Application Started, memory allocated to PHP: 408920
+[2022-02-16 15:57:07]: Application terminated, Execution time: 0.0917  , Memory Usage: 540,144  , Total Alocated memory: 1,688,232
+===========================================
+[2022-02-16 15:58:13]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:58:13]: Application terminated, Execution time: 0.0300  , Memory Usage: 540,216  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:58:13]: Application Started, memory allocated to PHP: 408920
+[2022-02-16 15:58:13]: Application terminated, Execution time: 0.0899  , Memory Usage: 540,144  , Total Alocated memory: 1,688,232
+===========================================
+[2022-02-16 15:58:59]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 15:58:59]: Application terminated, Execution time: 0.0324  , Memory Usage: 540,216  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 15:58:59]: Application Started, memory allocated to PHP: 408920
+[2022-02-16 15:58:59]: Application terminated, Execution time: 0.0870  , Memory Usage: 540,144  , Total Alocated memory: 1,688,232
+===========================================
+[2022-02-16 16:00:07]: Application Started, memory allocated to PHP: 407832
+[2022-02-16 16:00:07]: Application terminated, Execution time: 0.0309  , Memory Usage: 540,216  , Total Alocated memory: 1,689,320
+===========================================
+[2022-02-16 16:00:08]: Application Started, memory allocated to PHP: 408920
+[2022-02-16 16:00:08]: Application terminated, Execution time: 0.0943  , Memory Usage: 540,144  , Total Alocated memory: 1,688,232
+===========================================
+[2022-02-16 16:00:49]: Application Started, memory allocated to PHP: 410496
+[2022-02-16 16:00:50]: Application terminated, Execution time: 0.0483  , Memory Usage: 729,120  , Total Alocated memory: 3,783,808
+===========================================
+[2022-02-16 16:08:10]: Application Started, memory allocated to PHP: 410496
+[2022-02-16 16:08:10]: Application terminated, Execution time: 0.2364  , Memory Usage: 729,120  , Total Alocated memory: 3,783,808
+===========================================
+[2022-02-16 16:16:02]: Application Started, memory allocated to PHP: 410496
+[2022-02-16 16:16:02]: Application terminated, Execution time: 0.0557  , Memory Usage: 729,120  , Total Alocated memory: 1,686,656
+===========================================
+[2022-02-16 16:20:31]: Application Started, memory allocated to PHP: 407704
+[2022-02-16 16:20:31]: Application terminated, Execution time: 0.0479  , Memory Usage: 540,216  , Total Alocated memory: 1,689,448
+===========================================
+[2022-02-16 16:20:32]: Application Started, memory allocated to PHP: 408920
+[2022-02-16 16:20:32]: Application terminated, Execution time: 0.0682  , Memory Usage: 540,144  , Total Alocated memory: 1,688,232
+===========================================
+[2022-02-16 16:20:33]: Application Started, memory allocated to PHP: 410496
+[2022-02-16 16:20:33]: Application terminated, Execution time: 0.0521  , Memory Usage: 729,120  , Total Alocated memory: 1,686,656
+===========================================
+[2022-02-17 09:14:03]: Application Started, memory allocated to PHP: 407672
+[2022-02-17 09:14:03]: Application terminated, Execution time: 0.0462  , Memory Usage: 540,280  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-17 09:14:03]: Application Started, memory allocated to PHP: 408888
+[2022-02-17 09:14:03]: Application terminated, Execution time: 0.1102  , Memory Usage: 540,208  , Total Alocated memory: 1,688,264
+===========================================
+[2022-02-17 09:14:06]: Application Started, memory allocated to PHP: 410464
+[2022-02-17 09:14:06]: Application terminated, Execution time: 0.0996  , Memory Usage: 745,680  , Total Alocated memory: 3,783,840
+===========================================
+[2022-02-17 09:18:24]: Application Started, memory allocated to PHP: 407672
+
+===========================================
+[2022-02-17 09:18:38]: Application Started, memory allocated to PHP: 407800
+
+===========================================
+[2022-02-17 09:18:49]: Application Started, memory allocated to PHP: 407800
+[2022-02-17 09:18:49]: Application terminated, Execution time: 0.0342  , Memory Usage: 379,384  , Total Alocated memory: 1,689,352
+===========================================
+[2022-02-17 09:18:50]: Application Started, memory allocated to PHP: 408888
+[2022-02-17 09:18:50]: Application terminated, Execution time: 0.0907  , Memory Usage: 379,312  , Total Alocated memory: 1,688,264
+===========================================
+[2022-02-17 09:18:52]: Application Started, memory allocated to PHP: 410464
+[2022-02-17 09:18:52]: Application terminated, Execution time: 0.0772  , Memory Usage: 584,784  , Total Alocated memory: 3,783,840
+===========================================
+[2022-02-17 09:25:05]: Application Started, memory allocated to PHP: 407672
+[2022-02-17 09:25:05]: Application terminated, Execution time: 0.0329  , Memory Usage: 363,048  , Total Alocated memory: 1,689,480
+===========================================
+[2022-02-17 09:25:06]: Application Started, memory allocated to PHP: 408888
+[2022-02-17 09:25:06]: Application terminated, Execution time: 0.0927  , Memory Usage: 362,976  , Total Alocated memory: 1,688,264
+===========================================
+[2022-02-17 09:25:08]: Application Started, memory allocated to PHP: 410464
+[2022-02-17 09:25:08]: Application terminated, Execution time: 0.0598  , Memory Usage: 568,448  , Total Alocated memory: 3,783,840

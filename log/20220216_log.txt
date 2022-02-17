@@ -1,0 +1,130 @@
+[2022-02-16 12:33:09]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 12:33:09]: DB rawSQL: 1146 Table 'vedamo.sessions' doesn't exist 
+     SQL: INSERT INTO `sessions` (sid,user_agent,user_ip,user_id,l_user_id,ctime) VALUES ("53f0200e9e609ec1b59c4823a908091430617845645ace684406f88c77629e40","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0","127.0.0.1",null,null,1645011189)
+[2022-02-16 12:33:09]: DB rawSQL: 1146 Table 'vedamo.sessionlog' doesn't exist 
+     SQL: INSERT INTO `sessionlog` (formtoken,sid,datetime) VALUES ("be76ac44a2c1badf1fd7ceb6a26b1f6847aa09c7408b81ee4b029cdd5d18291f","53f0200e9e609ec1b59c4823a908091430617845645ace684406f88c77629e40","2022.02.16 12:33:09")
+[2022-02-16 12:38:15]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 12:41:51]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 12:48:39]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 12:51:09]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 12:58:00]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 12:58:55]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:07:19]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:07:49]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:08:31]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:08:48]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:08:56]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:10:06]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:11:19]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:11:51]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:12:16]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:12:28]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:12:48]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:13:16]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:13:19]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:13:41]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:14:32]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:15:50]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:22:47]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:22:58]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:23:26]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:30:54]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:31:35]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:31:36]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:34:28]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:36:07]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:36:31]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:36:50]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:46:52]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:47:10]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 13:48:34]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:01:14]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:04:04]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:05:37]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:08:18]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:08:21]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:15:47]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:16:02]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:16:06]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:17:28]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:19:00]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:19:04]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:19:04]: WARNING: Results are expected, but statement returns 0 rows!
+     SQL: SELECT u.first,u.last,u.email,c.name as country FROM `users` u, `countries` c WHERE c.c_id=u.c_id AND match(first,last,email) against (  in boolean mode);
+[2022-02-16 14:20:36]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:20:36]: WARNING: Results are expected, but statement returns 0 rows!
+     SQL: SELECT u.first,u.last,u.email,c.name as country FROM `users` u, `countries` c WHERE c.c_id=u.c_id AND match(first,last,email) against (  in boolean mode)
+[2022-02-16 14:22:13]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:22:13]: WARNING: Results are expected, but statement returns 0 rows!
+     SQL: SELECT u.first,u.last,u.email,c.name as country FROM `users` u, `countries` c WHERE c.c_id=u.c_id AND match(first,last,email) against (  in boolean mode)
+[2022-02-16 14:22:54]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:23:08]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:23:39]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:24:34]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:24:36]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:24:53]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:24:57]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:25:51]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:25:52]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:27:15]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:27:17]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:27:51]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:27:55]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:29:08]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:29:09]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:29:31]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:29:35]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:31:56]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:32:00]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:32:15]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:40:09]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:40:11]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:43:06]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:43:11]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:43:13]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:44:40]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:44:43]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:47:38]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:47:54]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:47:56]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:48:29]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:49:27]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:49:30]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:51:45]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:51:58]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:52:08]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:52:11]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:52:16]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:53:07]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:53:07]: WARNING: Results are expected, but statement returns 0 rows!
+     SQL: SELECT u.u_id,u.first,u.last,u.email,c.name as country FROM `users` u, `countries` c WHERE c.c_id=u.c_id AND match(first,last,email) against ( Sarah in boolean mode)
+[2022-02-16 14:53:20]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:53:34]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 14:59:52]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:36:06]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:38:33]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:44:44]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:45:35]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:45:41]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:48:08]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:48:34]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:50:47]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:50:47]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:50:47]: WARNING: Results are expected, but statement returns 0 rows!
+     SQL: SELECT u.u_id,u.first,u.last,u.email,c.name as country FROM `users` u, `countries` c WHERE c.c_id=u.c_id AND match(first,last,email) against (  in boolean mode)
+[2022-02-16 15:51:53]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:51:53]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:57:06]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:57:07]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:58:13]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:58:13]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:58:59]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 15:58:59]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 16:00:07]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 16:00:08]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 16:00:49]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 16:08:10]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 16:16:02]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 16:20:31]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 16:20:32]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-16 16:20:33]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 

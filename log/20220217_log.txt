@@ -1,0 +1,11 @@
+[2022-02-17 09:14:03]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:14:03]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:14:06]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:18:24]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:18:38]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:18:49]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:18:50]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:18:52]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:25:05]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:25:06]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
+[2022-02-17 09:25:08]: DB load settings: 1146 Table 'vedamo.settings' doesn't exist 
